@@ -1,0 +1,35 @@
+{
+  "name": "elastic-search-db-connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/communication-calling": "^1.24.1",
+    "@azure/communication-common": "^2.3.1",
+    "@elastic/elasticsearch": "^8.14.0",
+    "axios": "^1.7.2",
+    "base-64": "^1.0.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "cron": "^3.1.7",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.6.2",
+    "mongoose": "^8.5.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.0",
+    "node-cron": "^3.0.3",
+    "nodemon": "^3.1.0",
+    "path": "^0.12.7",
+    "python-shell": "^5.0.0"
+  }
+}

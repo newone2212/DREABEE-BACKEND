@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/adf9c1e1-a297-4ce2-b525-c642d414b6e7/resourceGroups/dreabee/providers/Microsoft.Web/sites/dreebee-backend2",
+    "appService.deploySubpath": "."
+}
